@@ -4,3 +4,5 @@ yfinance
 python-dateutil
 pytz
 flask
+livereload
+dotenv
