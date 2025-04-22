@@ -1,0 +1,64 @@
+/* --- Global & Layout --- */
+.main-container {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: Arial;
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.flex-row {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+/* --- Inputs & Dropdowns --- */
+.input-control {
+  background-color: #222 !important;
+  color: #EEE !important;
+  width: 6rem;
+}
+
+/* Date picker & dropdown override */
+.Select-control, .Select-menu-outer {
+  background-color: #000000 !important;
+  color: #EEE !important;
+}
+
+/* --- Metrics Cards --- */
+.card-metrics {
+  display: flex;
+  justify-content: space-around;
+  background-color: #222;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.card-metrics h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.card-metrics p {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+/* --- Table & Graphs --- */
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet {
+  background-color: #111;
+  color: #EEE;
+}
+
+.dash-graph-container .js-plotly-plot .plotly {
+  background-color: #111 !important;
+  color: #EEE !important;
+}
