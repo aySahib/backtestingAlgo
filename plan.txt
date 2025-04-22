@@ -1,0 +1,47 @@
+#time-series engine
+
+#order system
+ #types of orders
+ #position tracking
+    #PNL
+    #Unrealized/Realized gains
+
+#Metrics
+    #Cumulative returns
+    #Sharp Ratio
+    #Winrate Loss rate %
+    #Number of trades
+    #Max DD Limit
+
+#Plotting/Debugging
+    #Candlestick chart
+    #Entry & Exits
+    #Equity Curve
+    #Print logs and statements for debugging
+    #visualizing indicators on charts to verify their accuracy
+
+#Risk Mangement
+    #Position sizing
+    #Examples
+    #% of equity, volatility based, strategy based
+    #Trailing stops
+
+#Multi-threaded backtests
+
+#Strategy Optimization
+    #Run grid/random/bayesian search parameters
+#GUI Dashboard
+
+#Auto report generations
+
+#Indicators (Ema, Vwap, FVGs, OB's, BB's, MB's,  )
+
+#Strategy
+
+#CURRENT PROBLEM
+    #30 days of data not enough
+
+#My To-DO 
+    #Explain each indicators
+    #Models
+
